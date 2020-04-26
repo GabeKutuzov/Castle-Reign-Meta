@@ -1,0 +1,9 @@
+Version [s.m.n]:
+s(stage of game, ex: prototype, alpha, etc.)
+m(major version of stage)
+n(minor version of stage)
+
+s: 19 = Prototype (Proof of Concept)
+s: 20 = Pre Alpha
+s: 0 = Early Access Alpha
+s: 1 = Full Release
