@@ -1,0 +1,28 @@
+=======================
+Castle Reign Changelog
+=======================
+
+Versioning [x.x.x]:
+x(stage of game, ex: prototype, alpha, etc.)
+x(major version of stage)
+x(minor version of stage)
+
+----
+
+** Prototype version 19.0.3 ** ~ 04-21-20
+- First person arms
+- First person Crosshair
+- First building system implementation
+- RTS camera implementation
+
+** Prototype version 19.0.2 ** ~ 11-04-19
+- First Person Melee System
+- AI units can fight
+- RTS camera controller
+
+** Prototype version 19.0.1 ** ~ 08-14-19
+-- First initial build 2019 version of Castle Reign
+- Basic main menu
+- Networking-base with lobbies
+- Basic First Person Controller
+- Spawn and control units working
